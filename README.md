@@ -1,5 +1,5 @@
-# online-shopping-app
-Learning Spring Boot 
+# Shopease: an online shopping app
+Refresher for Spring Boot 
 
 Following along:  
 [Course Playlist](https://www.youtube.com/playlist?list=PLSVW22jAG8pBnhAdq9S8BpLnZ0_jVBj0c)  
